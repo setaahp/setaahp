@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Skills
 ![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
@@ -37,17 +37,9 @@
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced OS concepts: synchronization, scheduling, deadlock prevention  
-- Software design principles  
-- Advanced Python & C++ libraries  
-
----
-
 ## 📫 Connect with Me  
 - GitHub: [@setaahp](https://github.com/setaahp)  
 <!-- (Optional: Add your LinkedIn, email, or personal website here) -->
 
 ---
 
-✨ _“Keep learning, keep building.”_  
