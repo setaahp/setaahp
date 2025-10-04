@@ -19,7 +19,7 @@
 
 ---
 
-## 🌈 Featured Projects  
+## 🐾 Featured Projects  
 
 <p align="center">
   <a href="https://github.com/setaahp/xv6-projectt">
@@ -49,7 +49,7 @@
 
 ## 🌸 Connect With Me  
 
-- 🐙 GitHub: [@setaahp](https://github.com/setaahp)  
+- 🐚 GitHub: [@setaahp](https://github.com/setaahp)  
 - 💌 Email: seta.hp2610@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/setayesh-haghpanah-0673a634a/
 
