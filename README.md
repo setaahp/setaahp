@@ -51,7 +51,7 @@
 
 - 🐚 GitHub: [@setaahp](https://github.com/setaahp)  
 - 💌 Email: seta.hp2610@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/setayesh-haghpanah-0673a634a/
+- 🔗 LinkedIn: [@Setayesh Haghpanah](https://www.linkedin.com/in/setayesh-haghpanah-0673a634a/)
 
 ---
 
