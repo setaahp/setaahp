@@ -14,20 +14,23 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
-
 ## 🛠️ Featured Projects  
 
 <p align="center">
   <a href="https://github.com/setaahp/xv6-projectt">
-    <img src="https://img.shields.io/badge/xv6%20Phase%201-181717?style=for-the-badge&logo=github&logoColor=white" alt="xv6 Phase 1"/>
+    <img src="https://img.shields.io/badge/xv6%20Phase%201-FFD1DC?style=for-the-badge&logo=linux&logoColor=black" alt="xv6 Phase 1"/>
   </a>
   <a href="https://github.com/setaahp/xv6-phase2">
-    <img src="https://img.shields.io/badge/xv6%20Phase%202-181717?style=for-the-badge&logo=github&logoColor=white" alt="xv6 Phase 2"/>
+    <img src="https://img.shields.io/badge/xv6%20Phase%202-C1E1C1?style=for-the-badge&logo=linux&logoColor=black" alt="xv6 Phase 2"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter%20Simulation-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Simulation"/>
+  <a href="https://github.com/setaahp/tweeter-basic-simulation">
+    <img src="https://img.shields.io/badge/Twitter%20Simulation-AEC6CF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Simulation"/>
+  </a>
+  <a href="https://github.com/setaahp/todo-list-webapp">
+    <img src="https://img.shields.io/badge/ToDo%20List%20(Web)-FFFACD?style=for-the-badge&logo=todoist&logoColor=black" alt="ToDo List Web App"/>
   </a>
 </p>
+
 
 ---
 
