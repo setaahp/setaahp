@@ -1,4 +1,4 @@
-# 🌸 Hi there, I’m Setayesh 🌸  
+#  🐳 Hi there, I’m Setayesh 🐳  
 
 🎓 **CS Undergrad at Amirkabir University of Technology (Tehran Polytechnic)** (since 2023)  
 💻 Passionate about **systems programming & software design**  
