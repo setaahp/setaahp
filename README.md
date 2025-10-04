@@ -31,7 +31,7 @@
   <a href="https://github.com/setaahp/tweeter-basic-simulation">
     <img src="https://img.shields.io/badge/🐦%20Twitter%20Simulation-AEC6CF?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="https://github.com/setaahp/todo-list-webapp">
+  <a href="https://github.com/setaahp/To-Do-List">
     <img src="https://img.shields.io/badge/✅%20ToDo%20List%20(Web)-FFFACD?style=for-the-badge&logo=todoist&logoColor=black"/>
   </a>
 </p>  
