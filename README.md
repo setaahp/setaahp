@@ -15,16 +15,19 @@
 
 ---
 
-## 🛠️ Projects  
+## 🛠️ Featured Projects  
 
-- 🖥 **[xv6 Project – Phase 1](https://github.com/setaahp/xv6-projectt)**  
-  Exploring xv6 kernel internals, adding a new system call, and learning process management.  
-
-- ⚙️ **[xv6 Project – Phase 2](https://github.com/setaahp/xv6-phase2)**  
-  Extended xv6 with **multi-threading**: thread creation, join, synchronization, and shared resource management.  
-
-- 🐦 **Twitter Simulation (Advanced Programming Course)**  
-  A simplified backend of Twitter (without graphics) implementing users, tweets, and interactions in C++.  
+<p align="center">
+  <a href="https://github.com/setaahp/xv6-projectt">
+    <img src="https://img.shields.io/badge/xv6%20Phase%201-181717?style=for-the-badge&logo=github&logoColor=white" alt="xv6 Phase 1"/>
+  </a>
+  <a href="https://github.com/setaahp/xv6-phase2">
+    <img src="https://img.shields.io/badge/xv6%20Phase%202-181717?style=for-the-badge&logo=github&logoColor=white" alt="xv6 Phase 2"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter%20Simulation-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Simulation"/>
+  </a>
+</p>
 
 ---
 
