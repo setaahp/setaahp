@@ -1,13 +1,13 @@
-#  🐳 Hi there, I’m Setayesh 
+#   Hi there, I’m Setayesh 
 
-🎓 **CS Undergraduated at Amirkabir University of Technology (Tehran Polytechnic)** (since 2023)  
-💻 Passionate about **systems programming & software design**  
-🌱 Forever curious, always experimenting with new ideas  
-☕ Fueled by nature & coffee  
+ **CS Undergraduated at Amirkabir University of Technology (Tehran Polytechnic)** (since 2023)  
+ Passionate about **systems programming & software design**  
+ Forever curious, always experimenting with new ideas  
+Fueled by nature
 
 ---
 
-## 🧩 Skills  
+##  Skills  
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C-FFD1DC?style=for-the-badge&logo=c&logoColor=black"/>
@@ -19,7 +19,7 @@
 
 ---
 
-## 🐾 Featured Projects  
+##  Featured Projects  
 
 <p align="center">
   <a href="https://github.com/setaahp/xv6-projectt">
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=setaahp&show_icons=true&theme=tokyonight&title_color=FFB6C1&icon_color=FFB6C1&text_color=FFE4E1&bg_color=1A1B27" height="180"/>
