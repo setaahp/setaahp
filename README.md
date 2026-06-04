@@ -15,6 +15,8 @@ Fueled by nature
   <img src="https://img.shields.io/badge/-Python-AEC6CF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-FFFACD?style=for-the-badge&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/-CSS3-F4C2C2?style=for-the-badge&logo=css3&logoColor=black"/>
+   <img src="https://img.shields.io/badge/-Data Analysis-C1E1C1?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+
 </p>  
 
 ---
