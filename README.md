@@ -44,19 +44,11 @@ Fueled by nature
 
 ---
 
-##  GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setaahp&show_icons=true&theme=tokyonight&title_color=FFB6C1&icon_color=FFB6C1&text_color=FFE4E1&bg_color=1A1B27" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setaahp&layout=compact&theme=tokyonight&title_color=FFD1DC&text_color=FFE4E1&bg_color=1A1B27" height="180"/>
-</p>  
-
----
 
 ## 🌸 Connect With Me  
 
 - 🐚 GitHub: [setaahp](https://github.com/setaahp)  
-- 💌 Email: seta.hp2610@gmail.com
+- 💌 Email: setaayeshhaghpanah@gmail.com
 - 🔗 LinkedIn: [Setayesh Haghpanah](https://www.linkedin.com/in/setayesh-haghpanah-0673a634a/)
 
 ---
