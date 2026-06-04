@@ -15,7 +15,7 @@ Fueled by nature
   <img src="https://img.shields.io/badge/-Python-AEC6CF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-HTML5-FFFACD?style=for-the-badge&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/-CSS3-F4C2C2?style=for-the-badge&logo=css3&logoColor=black"/>
-   <img src="https://img.shields.io/badge/-Data Analysis-C1E1C1?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Data Analysis-F4C2C2?style=for-the-badge&logo=css3&logoColor=black"/>
 
 </p>  
 
@@ -25,17 +25,21 @@ Fueled by nature
 
 <p align="center">
   <a href="https://github.com/setaahp/xv6-projectt">
-    <img src="https://img.shields.io/badge/🐧%20xv6%20Phase%201-FFD1DC?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/%20xv6%20Phase%201-FFD1DC?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
   <a href="https://github.com/setaahp/xv6-phase2">
-    <img src="https://img.shields.io/badge/🐧%20xv6%20Phase%202-C1E1C1?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/%20xv6%20Phase%202-C1E1C1?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
   <a href="https://github.com/setaahp/tweeter-basic-simulation">
-    <img src="https://img.shields.io/badge/🐦%20Twitter%20Simulation-AEC6CF?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/%20Twitter%20Simulation-AEC6CF?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://github.com/setaahp/To-Do-List">
-    <img src="https://img.shields.io/badge/✅%20ToDo%20List%20(Web)-FFFACD?style=for-the-badge&logo=todoist&logoColor=black"/>
+    <img src="https://img.shields.io/badge/%20ToDo%20List%20(Web)-FFFACD?style=for-the-badge&logo=todoist&logoColor=black"/>
   </a>
+ <a href = "https://github.com/setaahp/movie_rating_system">
+    <img src="https://img.shields.io/badge/%20Movie%20Rating%20System-AEC6CF?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+  
 </p>  
 
 ---
