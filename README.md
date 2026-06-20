@@ -48,7 +48,7 @@ Fueled by nature
 ## 🌸 Connect With Me  
 
 - 🐚 GitHub: [setaahp](https://github.com/setaahp)  
-- 💌 Email: setaayeshhaghpanah@gmail.com
+- 💌 Email: seta.hp2610@gmail.com
 - 🔗 LinkedIn: [Setayesh Haghpanah](https://www.linkedin.com/in/setayesh-haghpanah-0673a634a/)
 
 ---
